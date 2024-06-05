@@ -11,9 +11,9 @@ This data visualisation was coded using the D3.js library.
 ## Data
 The project uses three data sets obtained from Pordata.pt, a statistics database about Portugal and Europe, covering themes such as population, education and health. The three data sets can be accessed here:
 
-- [Emigrants per thousand habitants] (https://www.pordata.pt/en/portugal/emigrants+per+thousand+inhabitants-832)
-- [Crude birth rate] (https://www.pordata.pt/en/portugal/crude+birth+rate-527)
-- [Crude death rate] (https://www.pordata.pt/en/portugal/crude+death+rate+and+infant+mortality+rate-528)
+- [Emigrants per thousand habitants](https://www.pordata.pt/en/portugal/emigrants+per+thousand+inhabitants-832)
+- [Crude birth rate](https://www.pordata.pt/en/portugal/crude+birth+rate-527)
+- [Crude death rate](https://www.pordata.pt/en/portugal/crude+death+rate+and+infant+mortality+rate-528)
 
 The natural population growth rate was calculated by subtracting the crude death rate from the crude birth rate.
 
