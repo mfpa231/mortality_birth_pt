@@ -2,8 +2,7 @@
 
 ## Description
 The aim of this project is to show a link between the mortality rate and birth rate in Portugal during the years 1960-2022, adding a third dimension, emigration and a fourth dimension, natural growth rate. Its objective is to see the decreasing natural growth rate over the years whilst considering the impact of emigration as a possible cause.
-
-![Screenshot 2024-06-05 at 22 33 52](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/9a6f95e8-dbb3-41e0-ac17-80077aa7e423)
+![Screenshot 2024-06-05 at 22 40 44](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/b16d6b85-c9ff-469b-907c-79322a8e11c9)
 
 ## Tools used
 This data visualisation was coded using the [D3.js](https://d3js.org) library. 
@@ -28,8 +27,8 @@ To get the full information the user can hover on each bubble to know the exact 
 
 ## Use
 There is an animation which begins once the user selects 'Play'. The animation can be paused when 'Pause' is selected and then be continued as well as restarted once it has ended.
+![Screenshot 2024-06-05 at 22 41 08](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/8b483206-4682-4a07-84a7-70a662a68475)
 
-![Screenshot 2024-06-05 at 22 39 31](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/781a25b6-822a-4c78-91e0-98931fe884a6)
 
 ## Acknowledgments
 This project was developed as part of the assessment for the Data Visualisation course given by Professor [Isaac Pante](https://isaacpante.net) at the University of Lausanne. 
