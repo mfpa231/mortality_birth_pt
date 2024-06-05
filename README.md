@@ -7,6 +7,7 @@ The aim of this project is to show a link between the mortality rate and birth r
 ## Interface
 There is an animation which begins once the user selects 'Play'. The animation can be paused when 'Pause' is selected and then be continued as well as restarted once it has ended.
 
+![Screenshot 2024-06-05 at 22 59 08](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/673da4ad-e76c-4e10-a109-2f61f2cf51c9)
 ![Screenshot 2024-06-05 at 22 41 08](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/8b483206-4682-4a07-84a7-70a662a68475)
 
 The data visualisation is a bubble graph with the mortality rate (%) on the x axis, the birth rate (%) on the y axis, the size of the bubbles is based on the of number of emigrants per thousand inhabitants in that year and the colour of the bubble ranges from red to blue based on the natural growth rate (the lower the rate, the closer to blue on the scale). 
