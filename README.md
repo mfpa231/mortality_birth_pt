@@ -1,15 +1,16 @@
 # Mortality, birth, natural population growth and emigration in Portugal
 
 ## Description
-The aim of this project is to show a link between the mortality rate and birth rate in Portugal during the years 1960-2022, adding a third dimension, emigration and a fourth dimension, natural growth rate. Its objective is to see the decreasing natural growth rate, considering the impact of emigration.
+The aim of this project is to show a link between the mortality rate and birth rate in Portugal during the years 1960-2022, adding a third dimension, emigration and a fourth dimension, natural growth rate. Its objective is to see the decreasing natural growth rate over the years whilst considering the impact of emigration as a possible cause.
 
 ![Screenshot 2024-06-05 at 14 11 04](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/5b354d92-7c6d-4597-94f1-f5050d0dc2f0)
 
 ## Tools used
-This data visualisation was coded using the D3.js library. 
+This data visualisation was coded using the [D3.js](https://d3js.org) library. 
+It uses the [bubble plot](https://d3-graph-gallery.com/bubble.html) example as a foundation, including the [bubble legend](https://d3-graph-gallery.com/graph/bubble_legend.html) and the [tooltip](https://d3-graph-gallery.com/graph/bubble_template.html) to give information on hover.
 
 ## Data
-The project uses three data sets obtained from Pordata.pt, a statistics database about Portugal and Europe, covering themes such as population, education and health. The three data sets can be accessed here:
+The project uses three data sets obtained from [Pordata.pt](https://www.pordata.pt), a statistics database about Portugal and Europe, covering themes such as population, education and health. The three data sets can be accessed here:
 
 - [Emigrants per thousand habitants](https://www.pordata.pt/en/portugal/emigrants+per+thousand+inhabitants-832)
 - [Crude birth rate](https://www.pordata.pt/en/portugal/crude+birth+rate-527)
