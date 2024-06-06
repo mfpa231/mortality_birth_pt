@@ -16,7 +16,7 @@ There is an animation which begins once the user selects 'Play'. The animation c
 
 ![Screenshot 2024-06-05 at 22 41 08](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/8b483206-4682-4a07-84a7-70a662a68475)
 
-To get the precise information per year, the user can hover on each bubble to know the exact mortality rate, birth rate, natural growth rate and emigration rate. 
+To get the precise information per year, the user can hover on each bubble to know the exact mortality rate, birth rate, natural growth rate and number of emigrants per thousand inhabitants. 
 
 ![Screenshot 2024-06-05 at 22 35 38](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/ab53ee6d-510d-4b44-b660-6217b86c0324)
 
