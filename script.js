@@ -273,7 +273,13 @@ d3.csv("data.csv").then(data => {
 // ---------------------------//
 //       MAIN FUNCTION        //
 // ---------------------------//
-
+    
+// I used ChatGPT with prompts:
+// How do I enable restart function once the 'play' has finished? 
+// Without an extra button
+// Making sure the circles animation restarts
+// Without removing each circle
+    
 // Initial plot with the starting year
     let currentYear = 1960;
     update(currentYear);
