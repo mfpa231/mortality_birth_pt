@@ -1,7 +1,7 @@
 # Mortality, birth, natural population growth and emigration in Portugal
 
 ## Description
-The aim of this project is to show a link between the mortality rate and birth rate in Portugal during the years 1960-2022, adding a third dimension, emigration and a fourth dimension, natural growth rate. Its objective is to see the decreasing natural growth rate over the years whilst considering the impact of emigration as a possible cause.
+The aim of this project is to show a link between the mortality rate and birth rate in Portugal during the years 1960-2022, adding a third dimension, emigration, and a fourth dimension, natural growth rate. Its objective is to see the decreasing natural growth rate over the years whilst considering the impact of emigration as a possible cause.
 ![Screenshot 2024-06-05 at 22 40 44](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/b16d6b85-c9ff-469b-907c-79322a8e11c9)
 
 ## Interface
