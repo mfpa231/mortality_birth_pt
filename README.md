@@ -6,7 +6,7 @@ The aim of this project is to show a link between the mortality rate and birth r
 
 ## Interface
 The data visualisation is a bubble graph with the mortality rate (%) on the x axis, the birth rate (%) on the y axis, the size of the bubbles is based on the number of emigrants per thousand inhabitants in that year and the colour of the bubble ranges from blue to red based on the natural growth rate (the lower the rate, the closer to blue on the scale). 
-There is a key on the right-hand side to give the user an idea of the relation between the size and percentage of the bubbles as well as the colour gradient.
+There is a key on the right-hand side to give the user an idea of the relation between the size of the bubbles as well as the colour gradient.
 
 ![Screenshot 2024-06-05 at 22 35 15](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/65b2a4ee-a007-4019-b0c1-f6746971ce9b)
 
