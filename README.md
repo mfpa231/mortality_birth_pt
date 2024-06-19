@@ -1,24 +1,14 @@
 # Mortality, birth, natural population growth and emigration in Portugal
 
 ## Description
-The aim of this project is to show a link between the mortality rate and birth rate in Portugal during the years 1960-2022, adding a third dimension, emigration, and a fourth dimension, natural growth rate. Its objective is to see the decreasing natural growth rate over the years whilst considering the impact of emigration as a possible cause.
-![Screenshot 2024-06-05 at 22 40 44](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/b16d6b85-c9ff-469b-907c-79322a8e11c9)
+The aim of this project is to to visualise and combine the following variables: mortality rate, birth rate and migration in Portugal due to my interest in Portugal’s demographic situation. Its objective is to see the decreasing natural growth rate over the years whilst considering the impact of emigration as a possible cause.
+![Screenshot 2024-06-19 at 07 15 17](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/7836eade-a80a-4577-be15-c57bd2a51db6)
 
 ## Interface
-The data visualisation is a bubble graph with the mortality rate (%) on the x axis, the birth rate (%) on the y axis, the size of the bubbles is based on the number of emigrants per thousand inhabitants in that year and the colour of the bubble ranges from blue to red based on the natural growth rate (the lower the rate, the closer to blue on the scale). 
-There is a key on the right-hand side to give the user an idea of the relation between the size of the bubbles as well as the colour gradient.
+There are three data visualisations which can be viewed individually by clicking on each button. 
+![Screenshot 2024-06-19 at 07 16 21](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/1d0d0ebd-d287-44f0-8316-bb7776bf7393)
 
-![Screenshot 2024-06-05 at 22 35 15](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/65b2a4ee-a007-4019-b0c1-f6746971ce9b)
 
-There is an animation which begins once the user selects 'Play'. The animation can be paused when 'Pause' is selected and then be continued as well as restarted once it has ended.
-
-![Screenshot 2024-06-05 at 22 59 08](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/673da4ad-e76c-4e10-a109-2f61f2cf51c9)
-
-![Screenshot 2024-06-05 at 22 41 08](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/8b483206-4682-4a07-84a7-70a662a68475)
-
-To get the precise information per year, the user can hover on each bubble to know the exact mortality rate, birth rate, natural growth rate and number of emigrants per thousand inhabitants. 
-
-![Screenshot 2024-06-05 at 22 35 38](https://github.com/mfpa231/mortality_birth_pt/assets/107937846/ab53ee6d-510d-4b44-b660-6217b86c0324)
 
 ## Tools used
 This data visualisation was coded using the [D3.js](https://d3js.org) library. 
