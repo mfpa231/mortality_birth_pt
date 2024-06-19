@@ -25,11 +25,13 @@ This data visualisation was coded using the [D3.js](https://d3js.org) library.
 It uses the [bubble plot](https://d3-graph-gallery.com/bubble.html) example as a foundation, including the [bubble legend](https://d3-graph-gallery.com/graph/bubble_legend.html) and the [tooltip](https://d3-graph-gallery.com/graph/bubble_template.html) to give information on hover.
 
 ## Data
-The project uses three data sets obtained from [Pordata.pt](https://www.pordata.pt), a statistics database about Portugal and Europe, covering themes such as population, education and health. The three data sets can be accessed here:
+The project uses five data sets obtained from [Pordata.pt](https://www.pordata.pt), a statistics database about Portugal and Europe, covering themes such as population, education and health. The data sets can be accessed here:
 
 - [Emigrants per thousand habitants](https://www.pordata.pt/en/portugal/emigrants+per+thousand+inhabitants-832)
 - [Crude birth rate](https://www.pordata.pt/en/portugal/crude+birth+rate-527)
 - [Crude death rate](https://www.pordata.pt/en/portugal/crude+death+rate+and+infant+mortality+rate-528)
+- [Permanent Immigrants]([https://www.pordata.pt/portugal/imigrantes+permanentes+total+e+por+nacionalidade-3795](https://www.pordata.pt/en/portugal/permanent+immigrants+total+and+by+nationality-3795))
+- [Permanent Emigrants](https://www.pordata.pt/en/portugal/permanent+emmigrants+total+and+by+nationality-3797)
 
 The natural population growth rate was calculated by subtracting the crude death rate from the crude birth rate.
 
