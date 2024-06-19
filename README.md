@@ -37,7 +37,7 @@ The project uses five data sets obtained from [Pordata.pt](https://www.pordata.p
 - [Emigrants per thousand habitants](https://www.pordata.pt/en/portugal/emigrants+per+thousand+inhabitants-832)
 - [Crude birth rate](https://www.pordata.pt/en/portugal/crude+birth+rate-527)
 - [Crude death rate](https://www.pordata.pt/en/portugal/crude+death+rate+and+infant+mortality+rate-528)
-- [Permanent Immigrants](https://www.pordata.pt/en/portugal/permanent+immigrants+total+and+by+nationality-3795))
+- [Permanent Immigrants](https://www.pordata.pt/en/portugal/permanent+immigrants+total+and+by+nationality-3795)
 - [Permanent Emigrants](https://www.pordata.pt/en/portugal/permanent+emmigrants+total+and+by+nationality-3797)
 
 The natural population growth rate was calculated by subtracting the crude death rate from the crude birth rate.
